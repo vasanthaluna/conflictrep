@@ -1,4 +1,4 @@
-name: karen
+name: karen the manager
 city: NY
 state: NY
 country: USA
